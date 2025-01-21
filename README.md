@@ -26,6 +26,12 @@ A tool to generate strong and secure passwords for users based on their preferen
 - Generates passwords using a mix of uppercase, lowercase, numbers, and special characters.  
 - Ensures randomness for enhanced security.  
 
+# Demo Video of the Password Generator
+
+
+https://github.com/user-attachments/assets/fded7c15-0d53-4a89-adca-c5f0e9dc583e
+
+
 # 3. Rock-Paper-Scissors Game  
 *Description*:  
 A classic game where the user competes against the computer in a game of rock-paper-scissors.  
