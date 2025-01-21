@@ -18,8 +18,8 @@ A simple calculator that performs basic arithmetic operations such as addition, 
 https://github.com/user-attachments/assets/bdfb7a26-e841-4744-b006-1d056fc0368a
 
 
-*How to Use*:  
-1. Run the calculator.py file in any Python IDE or terminal.  
+*How to Use*: 
+1. Run the 'calculator.py' file in any Python IDE or terminal.  
 2. Follow the on-screen instructions to input numbers and choose an operation.  
 3. The result will be displayed instantly.
    
