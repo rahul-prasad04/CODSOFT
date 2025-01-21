@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/bdfb7a26-e841-4744-b006-1d056fc0368a
 
 
 *How to Use*: 
-1. Run the calculator.py file in any Python IDE or terminal.  
+1. Run the `calculator.py` file in any Python IDE or terminal.  
 2. Follow the on-screen instructions to input numbers and choose an operation.  
 3. The result will be displayed instantly.
    
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/fded7c15-0d53-4a89-adca-c5f0e9dc583e
 
 
 *How to Use*:  
-1. Run the password_generator.py file in any Python IDE or terminal.  
+1. Run the `password_generator.py` file in any Python IDE or terminal.  
 2. Enter the desired password length when prompted.  
 3. The generated password will be displayed on the screen.  
 
@@ -54,6 +54,6 @@ A classic game where the user competes against the computer in a game of rock-pa
 ## Demo Video of the Rock-Paper-Scissors Game 
 
 *How to Use*:  
-1. Run the rock_paper_scissors.py file in any Python IDE or terminal.  
-2. Follow the on-screen instructions to select your choice.  
-3. The result of each round will be displayed, and you can play multiple rounds if desired. 
+1. Run the `rock_paper_scissors.py` file in any Python IDE or terminal.  
+4. Follow the on-screen instructions to select your choice.  
+5. The result of each round will be displayed, and you can play multiple rounds if desired. 
