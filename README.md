@@ -15,8 +15,7 @@ A simple calculator that performs basic arithmetic operations such as addition, 
 # Demo Video of the Simple Calculator  
 
 
-Uploading Demo Video of the Simple Calculator.mp4…
-
+https://github.com/user-attachments/assets/bdfb7a26-e841-4744-b006-1d056fc0368a
 
 
 # 2. Password Generator  
@@ -34,4 +33,4 @@ A classic game where the user competes against the computer in a game of rock-pa
 - Prompts the user to choose rock, paper, or scissors.  
 - Generates a random choice for the computer.  
 - Displays the winner based on the game logic.  
-- Optional feature to track scores across multiple rounds.  
+- Feature to track scores across multiple rounds.  
