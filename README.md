@@ -14,6 +14,11 @@ A simple calculator that performs basic arithmetic operations such as addition, 
 
 # Demo Video of the Simple Calculator  
 
+
+Uploading Demo Video of the Simple Calculator.mp4…
+
+
+
 # 2. Password Generator  
 *Description*:  
 A tool to generate strong and secure passwords for users based on their preferences.  
