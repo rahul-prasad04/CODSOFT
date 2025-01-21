@@ -12,7 +12,7 @@ A simple calculator that performs basic arithmetic operations such as addition, 
 - Outputs the result of the operation.  
 - Handles invalid inputs gracefully.
 
-## Demo Video of the Simple Calculator  
+### Demo Video of the Simple Calculator  
 
 
 https://github.com/user-attachments/assets/bdfb7a26-e841-4744-b006-1d056fc0368a
@@ -31,7 +31,7 @@ A tool to generate strong and secure passwords for users based on their preferen
 - Generates passwords using a mix of uppercase, lowercase, numbers, and special characters.  
 - Ensures randomness for enhanced security.  
 
-## Demo Video of the Password Generator
+### Demo Video of the Password Generator
 
 
 https://github.com/user-attachments/assets/fded7c15-0d53-4a89-adca-c5f0e9dc583e
@@ -51,7 +51,7 @@ A classic game where the user competes against the computer in a game of rock-pa
 - Displays the winner based on the game logic.  
 - Feature to track scores across multiple rounds.
   
-## Demo Video of the Rock-Paper-Scissors Game 
+### Demo Video of the Rock-Paper-Scissors Game 
 
 *How to Use*:  
 1. Run the `rock_paper_scissors.py` file in any Python IDE or terminal.  
