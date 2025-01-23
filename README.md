@@ -42,4 +42,22 @@ https://github.com/user-attachments/assets/fded7c15-0d53-4a89-adca-c5f0e9dc583e
 2. Enter the desired password length when prompted.  
 3. The generated password will be displayed on the screen.  
 
+## 3. Rock-Paper-Scissors Game  
+Description:  
+A classic game where the user competes against the computer in a game of rock-paper-scissors.  
+Features:  
+- Prompts the user to choose rock, paper, or scissors.  
+- Generates a random choice for the computer.  
+- Displays the winner based on the game logic.  
+- Feature to track scores across multiple rounds.
+  
+### Demo Video of the Rock-Paper-Scissors Game 
 
+
+https://github.com/user-attachments/assets/d8cc280c-239b-465b-8b07-f191b195e049
+
+
+How to Use:  
+1. Run the rock_paper_scissors.py file in any Python IDE or terminal.  
+4. Follow the on-screen instructions to select your choice.  
+5. The result of each round will be displayed, and you can play multiple rounds if desired.
