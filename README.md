@@ -1,4 +1,4 @@
-# CODSOFT Internship Projects  
+# [CODSOFT](https://www.codsoft.in/) Internship Projects  
 
 ## About  
 This repository contains the Python projects completed as part of the CODSOFT virtual internship. Each project demonstrates practical applications of Python programming and problem-solving skills. A video demonstration of each project is also included to showcase the functionality.  
