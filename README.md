@@ -3,6 +3,12 @@
 ## About  
 This repository contains the Python projects completed as part of the CODSOFT virtual internship. Each project demonstrates practical applications of Python programming and problem-solving skills. A video demonstration of each project is also included to showcase the functionality.  
 
+### Prerequisites
+1. Python 3.x installed on your system.
+2. Required libraries:
+   - `tkinter`
+   - `Pillow`
+
 # Projects  
 ## 1. Simple Calculator  
 *Description*:  
