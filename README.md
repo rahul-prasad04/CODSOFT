@@ -58,6 +58,6 @@ https://github.com/user-attachments/assets/d8cc280c-239b-465b-8b07-f191b195e049
 
 
 How to Use:  
-1. Run the `rock_paper_scissors.py` file in any Python IDE or terminal.  
+1. Run the `scissor_paper_rock.py` file in any Python IDE or terminal.  
 4. Follow the on-screen instructions to select your choice.  
 5. The result of each round will be displayed, and you can play multiple rounds if desired.
